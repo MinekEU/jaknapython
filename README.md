@@ -1,1 +1,1 @@
-# jaknqapython
+# jaknapython
